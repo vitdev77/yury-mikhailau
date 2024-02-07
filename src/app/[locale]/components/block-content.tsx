@@ -53,7 +53,7 @@ export function BlockContent({
               listItem_4 ||
               listItem_5 ||
               listItem_6) && (
-              <ul className="list-disc ml-4">
+              <ul className="list-disc ml-5">
                 {listItem_1 && <li>{listItem_1}</li>}
                 {listItem_2 && <li>{listItem_2}</li>}
                 {listItem_3 && <li>{listItem_3}</li>}

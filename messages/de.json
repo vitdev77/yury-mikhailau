@@ -169,6 +169,11 @@
     "interests": {
       "title": "Interessen",
       "text": "Ich interessiere mich für Computer und neue Technologien, daher wird die Arbeit bei Demant für mich zusätzlich motivierend sein und mir viel Freude bereiten."
+    },
+    "cookies": {
+      "text": "Wir verwenden Cookies für viele Zwecke, unter anderem um Ihr Erlebnis auf unserer Website zu verbessern.",
+      "acceptButtonText": "Alle akzeptieren",
+      "rejectButtonText": "Alles ablehnen"
     }
   }
 }

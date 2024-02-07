@@ -1,6 +1,7 @@
 import { useTranslations } from "next-intl";
 import { BlockTitle } from "@/app/[locale]/components/block-title";
 import { BlockContent } from "@/app/[locale]/components/block-content";
+import CookieConsentBanner from "@/app/[locale]/components/cookie-consent-banner";
 
 export default function Index() {
   const t = useTranslations("Index");
@@ -272,6 +273,11 @@ export default function Index() {
           {t("personal.legal")}
         </div>
       </div>
+      <CookieConsentBanner
+        text={t("cookies.text")}
+        acceptButtonText={t("cookies.acceptButtonText")}
+        rejectButtonText={t("cookies.rejectButtonText")}
+      />
     </div>
   );
 }
