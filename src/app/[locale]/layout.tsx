@@ -1,20 +1,24 @@
 import "@/styles/globals.css";
-import type { Metadata, Viewport } from "next";
+import type { Viewport } from "next";
 
-import { siteConfig } from "@/config/site";
+import { getTranslations } from "next-intl/server";
 import { fontSans } from "@/lib/fonts";
 import { cn } from "@/lib/utils";
 import { ThemeProvider } from "@/app/[locale]/components/theme-provider";
 import { SiteHeader } from "@/app/[locale]/components/site-header";
 // import { SiteFooter } from "@/app/[locale]/components/site-footer";
 
-export const metadata: Metadata = {
-  title: {
-    default: siteConfig.name,
-    template: `%s - ${siteConfig.name}`,
-  },
-  description: siteConfig.description,
-};
+export async function generateMetadata() {
+  const t = await getTranslations();
+
+  return {
+    title: `${t("Metadata.title")} - ${t("Index.personal.myFirstName")} ${t(
+      "Index.personal.mySecondName"
+    )}`,
+    description: t("Index.siteWelcomeText"),
+    keywords: t("Metadata.keywords"),
+  };
+}
 
 export const viewport: Viewport = {
   themeColor: [

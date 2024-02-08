@@ -175,5 +175,16 @@
       "acceptButtonText": "Accept All",
       "rejectButtonText": "Reject All"
     }
+  },
+  "Metadata": {
+    "title": "My Personal CV Page",
+    "siteUrl": "https://yury-mikhailau.vercel.app",
+    "description": "",
+    "keywords": "Yury, Mikhailau, personal, work, engineering, aircraft",
+    "ogImage": "",
+    "links": {
+      "twitter": "",
+      "github": ""
+    }
   }
 }
