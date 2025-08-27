@@ -1,22 +1,49 @@
 {
   "Index": {
-    "siteWelcomeText": "Cześć! Witam na mojej stronie z osobistym CV1",
+    "siteWelcomeText": "Cześć! Witam na mojej stronie z osobistym CV",
     "personal": {
       "title": "Dane osobowe",
       "myFirstName": "Yury",
       "mySecondName": "Mikhailau",
       "myEmail": { "title": "E-mail", "data": "jerzy.michailow@gmail.com" },
       "myPhone": { "title": "Numer Telefonu", "data": "+48 577 461 127" },
-      "myDreamPosition": "Specjalista ds. projektów",
-      "myDreamPositionDesc": "Zaangażowany w pracę na stanowisku specjalista ds. projektów, z doświadczeniem branży Projektowania. Dzięki umiejętnościom zdobytym na poprzednich stanowiskach pracy, wiem, jak funkcjonować w dużym zespole, by razem osiągać zamierzone cele.",
+      "myDreamPosition": "Specjalista branży technicznej",
+      "myDreamPositionDesc": "Zaangażowany w pracę na stanowisku Technika utrzymania ruchu, z doświadczeniem branży technicznej. Dzięki umiejętnościom zdobytym na poprzednich stanowiskach pracy, wiem, jak funkcjonować w dużym zespole, by razem osiągać zamierzone cele.",
       "legal": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)."
     },
     "experience": {
       "title": "Doświadczenie",
       "positionItems": {
+        "item_6": {
+          "dateStart": "07.2025",
+          "dateEnd": "obecnie",
+          "position": "Technik utrzymania ruchu",
+          "place": "Demant Operations Poland Sp. z o.o., Szczecin, Polska",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Usuwanie awarii testerów i maszyn produkcyjnych",
+            "listItem_2": "Analiza wadliwych produktów",
+            "listItem_3": "Współpraca z zespołem inżynierów i techników działa",
+            "listItem_4": "Przestrzeganie zasad BHP i procedur technicznych"
+          }
+        },
+        "item_5": {
+          "dateStart": "04.2025",
+          "dateEnd": "07.2025",
+          "position": "Praktykant w dziale Inżynierii Rozwoju Procesów",
+          "place": "Demant Operations Poland Sp. z o.o., Szczecin, Polska",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Usuwanie awarii testerów do obwodów elektronicznych ZEO i MCom",
+            "listItem_2": "Wsparcie przy budowie nowych testerów MCom",
+            "listItem_3": "Analiza wadliwych produktów",
+            "listItem_4": "Współpraca z zespołem inżynierów",
+            "listItem_5": "Przestrzeganie zasad BHP i procedur technicznych"
+          }
+        },
         "item_4": {
           "dateStart": "09.2023",
-          "dateEnd": "obecnie",
+          "dateEnd": "04.2025",
           "position": "Pracownik produkcji",
           "place": "Demant Operations Poland Sp. z o.o., Szczecin, Polska",
           "listTitle": "Obowiązki:",
@@ -24,7 +51,7 @@
             "listItem_1": "Przeprowadzanie napraw produkcji firmy",
             "listItem_2": "Wizualna ocena jakości lutowania płytek",
             "listItem_3": "Czytanie schematów radioelektrycznych",
-            "listItem_4": "Zgodność ze standardami BHP i ESD"
+            "listItem_4": "Zgodność ze standardami BHP oraz ESD"
           }
         },
         "item_3": {
@@ -150,7 +177,7 @@
       "skillItems": {
         "skillItem_1": {
           "data": "Polski",
-          "stars": "3"
+          "stars": "4"
         },
         "skillItem_2": {
           "data": "Białoruski",
@@ -168,7 +195,7 @@
     },
     "interests": {
       "title": "Zainteresowania",
-      "text": "Interesuję się komputerami oraz nowymi technologiami, dlatego praca w firmie Demant będzie dla mnie dodatkowo motywująca i sprawi mi wiele radości."
+      "text": "Interesuję się nowymi technologiami, elektroniką oraz urządzeniami technicznymi. Śledzę aktualne trendy w dziedzinie innowacji technologicznych, a także z pasją zgłębiam działanie nowoczesnych systemów elektronicznych. Praca w środowisku technicznym jest dla mnie źródłem satysfakcji i dodatkowej motywacji do rozwoju zawodowego."
     },
     "cookies": {
       "text": "Ta strona korzysta z plików cookies, aby zapewnić najlepszą jakość korzystania z naszej witryny.",
