@@ -87,7 +87,8 @@
           "listTitle": "Obowiązki:",
           "listItems": {
             "listItem_1": "Zarządzanie personelem",
-            "listItem_2": "Diagnostyka urządzeń Radiolokacji i Radionawigacji"
+            "listItem_2": "Diagnostyka urządzeń Radiolokacji i Radionawigacji",
+            "listItem_3": "Analiza wadliwych produktów"
           }
         }
       }
