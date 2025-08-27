@@ -7,16 +7,43 @@
       "mySecondName": "Mikhailau",
       "myEmail": { "title": "E-mail", "data": "jerzy.michailow@gmail.com" },
       "myPhone": { "title": "Phone number", "data": "+48 577 461 127" },
-      "myDreamPosition": "Project specialist",
-      "myDreamPositionDesc": "Committed to work as a project specialist with experience in the Design industry. Thanks to the skills acquired in previous jobs, I know how to function in a large team to achieve the intended goals together.",
+      "myDreamPosition": "Technical industry specialist",
+      "myDreamPositionDesc": "Committed to working as a Maintenance Technician, with experience in the technical industry. Thanks to the skills acquired in previous positions, I know how to function in a large team to achieve our goals together.",
       "legal": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)."
     },
     "experience": {
       "title": "Experience",
       "positionItems": {
+        "item_6": {
+          "dateStart": "07.2025",
+          "dateEnd": "present",
+          "position": "Maintenance technician",
+          "place": "Demant Operations Poland Sp. z o.o., Szczecin, Poland",
+          "listTitle": "Responsibilities:",
+          "listItems": {
+            "listItem_1": "Troubleshooting testers and production machines",
+            "listItem_2": "Analysis of defective products",
+            "listItem_3": "Collaboration with a team of engineers and technicians from the department",
+            "listItem_4": "Compliance with occupational health and safety regulations and technical procedures"
+          }
+        },
+        "item_5": {
+          "dateStart": "04.2025",
+          "dateEnd": "07.2025",
+          "position": "Intern in the Process Development Engineering Department",
+          "place": "Demant Operations Poland Sp. z o.o., Szczecin, Poland",
+          "listTitle": "Responsibilities:",
+          "listItems": {
+            "listItem_1": "Troubleshooting of ZEO and MCom electronic circuit testers",
+            "listItem_2": "Support in the construction of new MCom testers",
+            "listItem_3": "Analysis of defective products",
+            "listItem_4": "Collaboration with a team of engineers",
+            "listItem_5": "Compliance with occupational health and safety regulations and technical procedures"
+          }
+        },
         "item_4": {
           "dateStart": "09.2023",
-          "dateEnd": "present",
+          "dateEnd": "04.2025",
           "position": "Precision elements fitter",
           "place": "Demant Operations Poland Sp. z o.o., Szczecin, Poland",
           "listTitle": "Responsibilities:",
@@ -150,7 +177,7 @@
       "skillItems": {
         "skillItem_1": {
           "data": "Polish",
-          "stars": "3"
+          "stars": "4"
         },
         "skillItem_2": {
           "data": "Belarusian",
@@ -168,7 +195,7 @@
     },
     "interests": {
       "title": "Interests",
-      "text": "I am interested in computers and new technologies, so working at Demant will be additionally motivating for me and will give me a lot of joy."
+      "text": "I am interested in new technologies, electronics, and technical devices. I follow current trends in technological innovation and passionately explore the operation of modern electronic systems. Working in a technical environment is a source of satisfaction and additional motivation for my professional development."
     },
     "cookies": {
       "text": "We use cookies for many purposes, including to improve your experience on our site.",
