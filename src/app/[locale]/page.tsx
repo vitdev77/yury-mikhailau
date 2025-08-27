@@ -121,9 +121,6 @@ export default function Index() {
                   listItem_3={t(
                     "experience.positionItems.item_3.listItems.listItem_3"
                   )}
-                  listItem_4={t(
-                    "experience.positionItems.item_3.listItems.listItem_3"
-                  )}
                 />
                 <BlockContent
                   variant={1}
@@ -160,6 +157,9 @@ export default function Index() {
                   )}
                   listItem_3={t(
                     "experience.positionItems.item_1.listItems.listItem_3"
+                  )}
+                  listItem_4={t(
+                    "experience.positionItems.item_1.listItems.listItem_4"
                   )}
                 />
               </div>
