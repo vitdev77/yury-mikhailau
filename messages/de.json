@@ -7,16 +7,42 @@
       "mySecondName": "Mikhailau",
       "myEmail": { "title": "E-mail", "data": "jerzy.michailow@gmail.com" },
       "myPhone": { "title": "Telefonnummer", "data": "+48 577 461 127" },
-      "myDreamPosition": "Projektspezialist",
-      "myDreamPositionDesc": "Engagiert als Projektspezialist mit Erfahrung in der Designbranche. Dank der in früheren Tätigkeiten erworbenen Fähigkeiten weiß ich, wie man in einem großen Team funktioniert, um gemeinsam die angestrebten Ziele zu erreichen.",
+      "myDreamPosition": "Technischer Industriefachmann",
+      "myDreamPositionDesc": "Engagierter Wartungstechniker mit Erfahrung in der technischen Branche. Dank der in früheren Positionen erworbenen Fähigkeiten weiß ich, wie man in einem großen Team funktioniert, um gemeinsam unsere Ziele zu erreichen.",
       "legal": "Ich bin einverstanden, dass meine in diesem Arbeitsangebot enthaltenen personalen Daten durch die Firma für die Rekrutierungszwecke verwendet werden, gemäβ dem Gesetz vom 29.08.1997 über den Schutz der Personaldaten (Gesetzblatt von 2016, Pos. 922 mit späteren Änderungen)."
     },
     "experience": {
       "title": "Berufserfahrung",
       "positionItems": {
-        "item_4": {
-          "dateStart": "09/2023",
+        "item_6": {
+          "dateStart": "07/2025",
           "dateEnd": "heute",
+          "position": "Wartungstechniker",
+          "place": "Demant Operations Poland Sp. z o.o., Stettin, Polen",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Fehlerbehebung bei Testern und Produktionsmaschinen",
+            "listItem_2": "Analyse fehlerhafter Produkte",
+            "listItem_3": "Zusammenarbeit mit einem Team aus Ingenieuren und Technikern der Abteilung",
+            "listItem_4": "Einhaltung der Arbeitsschutzvorschriften und technischen Verfahren"
+          }
+        },
+        "item_5": {
+          "dateStart": "04/2025",
+          "dateEnd": "07/2025",
+          "position": "Praktikant in der Abteilung Verfahrenstechnik",
+          "place": "Demant Operations Poland Sp. z o.o., Stettin, Polen",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Fehlerbehebung bei elektronischen Schaltungstestern ZEO und MCom",
+            "listItem_2": "Unterstützung beim Aufbau neuer MCom-Tester",
+            "listItem_3": "Analyse fehlerhafter Produkte",
+            "listItem_4": "Zusammenarbeit mit einem Team von Ingenieuren"
+            "listItem_5": "Einhaltung der Arbeitsschutzvorschriften und technischen Verfahren"
+          }
+        },"item_4": {
+          "dateStart": "09/2023",
+          "dateEnd": "04/2025",
           "position": "Technischer Präzisionselementsmitarbeiter",
           "place": "Demant Operations Poland Sp. z o.o., Stettin, Polen",
           "listTitle": "Verantwortlichkeiten:",
@@ -150,7 +176,7 @@
       "skillItems": {
         "skillItem_1": {
           "data": "Polnisch",
-          "stars": "3"
+          "stars": "4"
         },
         "skillItem_2": {
           "data": "Weißrussisch",
@@ -168,7 +194,7 @@
     },
     "interests": {
       "title": "Interessen",
-      "text": "Ich interessiere mich für Computer und neue Technologien, daher wird die Arbeit bei Demant für mich zusätzlich motivierend sein und mir viel Freude bereiten."
+      "text": "Ich interessiere mich für neue Technologien, Elektronik und technische Geräte. Ich verfolge aktuelle Trends in der technologischen Innovation und erforsche leidenschaftlich die Funktionsweise moderner elektronischer Systeme. Die Arbeit im technischen Umfeld ist eine Quelle der Zufriedenheit und zusätzliche Motivation für meine berufliche Entwicklung."
     },
     "cookies": {
       "text": "Wir verwenden Cookies für viele Zwecke, unter anderem um Ihr Erlebnis auf unserer Website zu verbessern.",
