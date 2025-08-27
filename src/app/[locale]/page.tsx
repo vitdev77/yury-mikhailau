@@ -155,6 +155,9 @@ export default function Index() {
                   listItem_2={t(
                     "experience.positionItems.item_1.listItems.listItem_2"
                   )}
+                  listItem_3={t(
+                    "experience.positionItems.item_1.listItems.listItem_3"
+                  )}
                 />
               </div>
             </div>
