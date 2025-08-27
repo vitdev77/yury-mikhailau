@@ -86,7 +86,8 @@
           "listTitle": "Verantwortlichkeiten:",
           "listItems": {
             "listItem_1": "Personalmanagement",
-            "listItem_2": "Diagnostik von Funkortungs- und Funknavigationsgeräten"
+            "listItem_2": "Diagnostik von Funkortungs- und Funknavigationsgeräten",
+            "listItem_3": "Analyse fehlerhafter Produkte"
           }
         }
       }
