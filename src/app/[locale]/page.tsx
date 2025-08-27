@@ -44,6 +44,49 @@ export default function Index() {
               <div className="flex flex-col gap-10">
                 <BlockContent
                   variant={1}
+                  dateStart={t("experience.positionItems.item_6.dateStart")}
+                  dateEnd={t("experience.positionItems.item_6.dateEnd")}
+                  position={t("experience.positionItems.item_6.position")}
+                  place={t("experience.positionItems.item_6.place")}
+                  listTitle={t("experience.positionItems.item_6.listTitle")}
+                  listItem_1={t(
+                    "experience.positionItems.item_6.listItems.listItem_1"
+                  )}
+                  listItem_2={t(
+                    "experience.positionItems.item_6.listItems.listItem_2"
+                  )}
+                  listItem_3={t(
+                    "experience.positionItems.item_6.listItems.listItem_3"
+                  )}
+                  listItem_4={t(
+                    "experience.positionItems.item_6.listItems.listItem_4"
+                  )}
+                />
+                <BlockContent
+                  variant={1}
+                  dateStart={t("experience.positionItems.item_5.dateStart")}
+                  dateEnd={t("experience.positionItems.item_5.dateEnd")}
+                  position={t("experience.positionItems.item_5.position")}
+                  place={t("experience.positionItems.item_5.place")}
+                  listTitle={t("experience.positionItems.item_5.listTitle")}
+                  listItem_1={t(
+                    "experience.positionItems.item_5.listItems.listItem_1"
+                  )}
+                  listItem_2={t(
+                    "experience.positionItems.item_5.listItems.listItem_2"
+                  )}
+                  listItem_3={t(
+                    "experience.positionItems.item_5.listItems.listItem_3"
+                  )}
+                  listItem_4={t(
+                    "experience.positionItems.item_5.listItems.listItem_4"
+                  )}
+                  listItem_5={t(
+                    "experience.positionItems.item_5.listItems.listItem_5"
+                  )}
+                />
+                <BlockContent
+                  variant={1}
                   dateStart={t("experience.positionItems.item_4.dateStart")}
                   dateEnd={t("experience.positionItems.item_4.dateEnd")}
                   position={t("experience.positionItems.item_4.position")}
